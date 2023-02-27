@@ -11,7 +11,7 @@ Projeto criado na aula de JavaScript, promovido pela B7Web para ensino de tecnol
 <br>
 
 <p align="center">
-  <img alt="github-favorites" src=".github/preview.png" width="60%">
+  <img alt="github-favorites" src=".github/imagePreview.png" width="60%">
 </p>
 
 ## 🚀 Tecnologias
